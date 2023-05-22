@@ -1,0 +1,18 @@
+.beige{
+    background:#f2eeca;
+}
+
+.amatic{
+    font-family: 'Amatic SC', cursive;
+}
+
+.center{
+    margin: auto;
+    width: 50%;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+body{
+    background: beige;
+}
